@@ -1,0 +1,29 @@
+.header-title {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  text-transform: uppercase;
+  width: 409px;
+  line-height: 42px;
+  margin: 0 auto 34px;
+  color: #212121;
+}
+
+.header-line {
+  width: 64px;
+  height: 2px;
+  background-color: #e72424;
+  margin: 0 auto 34px;
+}
+
+.header-text {
+  width: 363px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #86878b;
+  margin: 0 auto 50px;
+}
