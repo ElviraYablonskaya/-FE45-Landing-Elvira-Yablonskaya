@@ -1,6 +1,9 @@
 @import url("./cdn.css");
 @import url("./header.css");
 @import url("./portfolio.css");
+@import url("./header-pricing.css");
+@import url("./cards-pricing.css");
+
 
 * {
   margin: 0;
@@ -12,5 +15,5 @@
 
 .container {
   padding: 0 15px;
-  margin-top: 80px;
+  overflow: hidden;
 }

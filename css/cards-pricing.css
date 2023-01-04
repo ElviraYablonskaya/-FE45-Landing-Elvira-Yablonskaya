@@ -1,0 +1,62 @@
+.pricing-wrap {
+  display: flex;
+  justify-content: space-around;
+  overflow: hidden;
+}
+
+.pricing-card li {
+  width: 340px;
+  height: 50px;
+  background: #333333;
+  margin-bottom: 2px;
+}
+
+.pricing-name {
+  font-family: "Open Sans";
+  font-style: normal;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.pricing-cost {
+  height: 100px !important;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 41px;
+}
+
+.pricing-file {
+  display: flex;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  align-items: center;
+  justify-content: center;
+}
+
+.pricing-space {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  align-items: center;
+  justify-content: center;
+  color: #86878b;
+  background: #fff !important;
+  display: flex;
+}
