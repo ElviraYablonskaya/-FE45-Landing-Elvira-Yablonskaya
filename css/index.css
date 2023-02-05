@@ -3,6 +3,12 @@
 @import url("./pricing.css");
 @import url("./customers.css");
 @import url("./design.css");
+@import url("./contact.css");
+@import url("./footer.css");
+@import url("./header.css");
+@import url("./modern.css");
+@import url("./media.css");
+@import url("./tabs.css");
 
 * {
   margin: 0;
@@ -21,6 +27,8 @@ section {
   padding: 0 15px;
   max-width: 1170px;
   margin: auto;
+  position: relative;
+  z-index: 1;
 }
 
 .title {
